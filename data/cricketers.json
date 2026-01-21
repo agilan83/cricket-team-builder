@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Virat Kohli", "team": "RCB", "basePrice": 2000000 },
+  { "id": 2, "name": "Rohit Sharma", "team": "MI", "basePrice": 1800000 },
+  { "id": 3, "name": "Jasprit Bumrah", "team": "MI", "basePrice": 1500000 },
+  { "id": 4, "name": "MS Dhoni", "team": "CSK", "basePrice": 2000000 },
+  { "id": 5, "name": "Ravindra Jadeja", "team": "CSK", "basePrice": 1600000 },
+  { "id": 6, "name": "KL Rahul", "team": "LSG", "basePrice": 1700000 },
+  { "id": 7, "name": "Hardik Pandya", "team": "MI", "basePrice": 1500000 },
+  { "id": 8, "name": "Shubman Gill", "team": "GT", "basePrice": 1400000 },
+  { "id": 9, "name": "Rashid Khan", "team": "GT", "basePrice": 1600000 },
+  { "id": 10, "name": "Suryakumar Yadav", "team": "MI", "basePrice": 1500000 },
+  { "id": 11, "name": "Rinku Singh", "team": "KKR", "basePrice": 800000 },
+  { "id": 12, "name": "Andre Russell", "team": "KKR", "basePrice": 1200000 },
+  { "id": 13, "name": "David Warner", "team": "DC", "basePrice": 1400000 },
+  { "id": 14, "name": "Prithvi Shaw", "team": "DC", "basePrice": 800000 },
+  { "id": 15, "name": "Sanju Samson", "team": "RR", "basePrice": 1300000 },
+  { "id": 16, "name": "Jos Buttler", "team": "RR", "basePrice": 1600000 },
+  { "id": 17, "name": "Mohammed Shami", "team": "GT", "basePrice": 1100000 },
+  { "id": 18, "name": "Yuzvendra Chahal", "team": "RR", "basePrice": 1000000 },
+  { "id": 19, "name": "Arshdeep Singh", "team": "PBKS", "basePrice": 900000 },
+  { "id": 20, "name": "Shikhar Dhawan", "team": "PBKS", "basePrice": 1200000 }
+]

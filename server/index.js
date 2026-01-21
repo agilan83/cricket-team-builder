@@ -3,7 +3,10 @@ const sqlite3 = require("sqlite3").verbose();
 const path = require("path");
 
 const app = express();
+
 app.use(express.json());
+app.use("/api/cricketers", require("../routes/cricketers"));
+
 app.use(express.static(path.join(__dirname, "../public")));
 
 app.get("/", (req, res) => {
